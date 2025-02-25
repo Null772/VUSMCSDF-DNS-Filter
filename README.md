@@ -13,3 +13,8 @@ VUSMCSDF 阻止各种跟踪器。
 ```
 https://cdn.jsdelivr.net/gh/Null772/VUSMCSDF-DNS-Filter@latest/VUSMCSDF-DNS-Filter.txt
 ```
+
+**VUSMCSDF RPZ Filter**:  
+```
+https://cdn.jsdelivr.net/gh/Null772/VUSMCSDF-DNS-Filter@latest/VUSMCSDF-RPZ-Filter.txt
+```
