@@ -18,3 +18,8 @@ https://cdn.jsdelivr.net/gh/Null772/VUSMCSDF-DNS-Filter@latest/VUSMCSDF-DNS-Filt
 ```
 https://cdn.jsdelivr.net/gh/Null772/VUSMCSDF-DNS-Filter@latest/VUSMCSDF-RPZ-Filter.txt
 ```
+
+**VUSMCSDF-hosts**:  
+```
+https://cdn.jsdelivr.net/gh/Null772/VUSMCSDF-DNS-Filter@latest/VUSMCSDF-hosts.txt
+```
